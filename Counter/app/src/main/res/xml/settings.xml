@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="vibration"
+        android:summaryOff="@string/vibration_preference_off"
+        android:summaryOn="@string/vibration_preference_on"
+        android:title="@string/vibration" />
+    <CheckBoxPreference
+        android:key="sound"
+
+        android:summaryOff="@string/sound_preference_off"
+        android:summaryOn="@string/sound_preference_on"
+        android:title="@string/sound" />
+
+    <ListPreference
+        android:entries="@array/colors"
+        android:entryValues="@array/color_position"
+        android:key="background"
+        android:summary="@string/background_preference_summary"
+        android:title="@string/background" />
+
+</PreferenceScreen>

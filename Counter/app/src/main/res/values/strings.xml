@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Sayaç</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_reset">Sıfırla</string>
+    <string name="btn_counter">0</string>
+    <string name="vibration">Titreşim</string>
+    <string name="vibration_preference_summary">Butona dokunulduğunda titreşim oluşsun mu?</string>
+    <string name="vibration_preference_on">Titreşim Açık</string>
+    <string name="vibration_preference_off">Titreşim Kapalı</string>
+    <string name="sound">Ses</string>
+    <string name="sound_preference_summary">Butona dokunulduğunda ses efekti çalışsın mı?</string>
+    <string name="sound_preference_on">Ses Açık</string>
+    <string name="sound_preference_off">Ses Kapalı</string>
+    <string name="background">Arkaplan</string>
+    <string name="background_preference_summary">Arka plan rengi seçiniz.</string>
+
+    <string-array name="color_position">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>Kırmızı</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Koyu Gri</item>
+        <item>Açık Gri</item>
+    </string-array>
+
+
+
+</resources>
+

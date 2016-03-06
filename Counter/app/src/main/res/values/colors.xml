@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#559686</color>
+    <color name="button_color">#004D40</color>
+    <color name="button_press_color">#03F9D8</color>
+    <color name="background_mavi">#FF13B2CE</color>
+    <color name="background_kirmizi">#FFD60D50</color>
+
+
+</resources>
