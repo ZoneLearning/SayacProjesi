@@ -6,12 +6,13 @@
 
 ![alt text](https://github.com/ZoneLearning/SayacProjesi/blob/master/ScreenShot/AnaEkran.PNG "ana ekran")
 
-### Ayarlar Ekranı ( PreferenceActivity, PreferenceFragment, <PreferenceScreen> ile yapıldı.
+### Ayarlar Ekranı 
+##### PreferenceActivity, PreferenceFragment, PreferenceScreen ile yapıldı.
 
 ![alt text](https://github.com/ZoneLearning/SayacProjesi/blob/master/ScreenShot/Ayarlar.PNG "ana ekran")
 
 ### Ayarlar ekranından arkaplan değiştirmek için seçenekler:
 
-![alt text](https://github.com/ZoneLearning/SayacProjesi/blob/master/ScreenShot/Ayarlar.PNG "ana ekran")
+![alt text](https://github.com/ZoneLearning/SayacProjesi/blob/master/ScreenShot/Arkaplan.PNG "ana ekran")
 
 
